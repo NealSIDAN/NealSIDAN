@@ -26,8 +26,8 @@
 Building next-gen trading infrastructure on Cardano.
 
 - Co-founder at [DeltaDeFi](https://deltadefi.io) & [SIDAN Lab](https://sidan.io)
-- Hong Kong
 - Draper University Alumni
+- Hong Kong
 
 </td>
 <td width="50%" valign="top">
