@@ -124,12 +124,12 @@ development accessible to everyone
 
 ### Connect
 
-[![Twitter](https://img.shields.io/badge/@deltaboracle-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/NealSIDAN)
+[![Twitter](https://img.shields.io/badge/@NealSIDAN-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/NealSIDAN)
 [![DeltaDeFi](https://img.shields.io/badge/@DeltaDeFi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/DeltaDeFi)
 [![Discord](https://img.shields.io/badge/DeltaDeFi-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/deltadefi)
 [![SIDAN Lab](https://img.shields.io/badge/@sidan__lab-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sidan_lab)
-[![GitHub](https://img.shields.io/badge/leuhk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NealSIDAN)
-[![Email](https://img.shields.io/badge/jackal.leung@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white)](mailto:neal.lam@deltadefi.io)
+[![GitHub](https://img.shields.io/badge/NealSIDAN-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NealSIDAN)
+[![Email](https://img.shields.io/badge/neal.lam@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white)](mailto:neal.lam@deltadefi.io)
 
 <br/>
 
